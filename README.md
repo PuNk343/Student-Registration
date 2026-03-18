@@ -1,4 +1,3 @@
-```md
 # Student Registration Form
 
 A simple Student Registration Form built using **HTML** and **JavaScript**, with basic **client-side validation** for required input fields.
